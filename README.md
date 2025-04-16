@@ -2,6 +2,8 @@
 
 By Nguyen Le Ho Anh Khoa
 
+Certificate: [link](https://cs50.harvard.edu/certificates/a9239cbf-66d6-47ca-9ce1-92b70f60fba6)
+
 ## Scope
 
 The Book Management database includes all entities necessary to facilitate the management of a personal or public library. As such, included in the database's scope is:
